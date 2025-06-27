@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/rafi-ahmad-597798217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/rafi816z" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github" alt="GitHub"/>
-  </a>
   <a href="https://coursera.org/share/0187908e2145d92b94d47c0ad02ce739" target="_blank">
     <img src="https://img.shields.io/badge/Coursera-Certificate-blue" alt="Coursera Certificate"/>
   </a>
