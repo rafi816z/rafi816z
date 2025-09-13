@@ -50,7 +50,7 @@
 - 📞 Analyzed **100,000+** call records to reduce abandon rate from **30% → 10%**
 - 🧠 Improved manpower planning for peak hours (10 AM–2 PM)
 
-> 🔗 More projects coming soon! Follow to stay updated.
+> 🔗 For more projects check my Repository.
 
 ---
 
