@@ -37,18 +37,18 @@
 ### 📈 Featured Projects
 
 #### 🔹 Instagram User Analytics – *MySQL*
-- 📉 Identified inactive users and improved retention by **12%**
-- 📅 Suggested top ad campaign days, increasing CTR by **15%**
-- 🛡️ Boosted fake account detection accuracy by **20%**
+- Identified inactive users and improved retention by **12%**
+- Suggested top ad campaign days, increasing CTR by **15%**
+- Boosted fake account detection accuracy by **20%**
 
 #### 🔹 Hiring Analytics Dashboard – *Excel*
-- 📊 Uncovered gender & pay gaps, improving transparency by **15%**
-- ⏱️ Cut hiring time by **20%** via pipeline optimization
-- 📌 Built dashboards for faster decision-making
+- Uncovered gender & pay gaps, improving transparency by **15%**
+- Cut hiring time by **20%** via pipeline optimization
+- Built dashboards for faster decision-making
 
 #### 🔹 ABC Call Volume Trend Analysis – *Python, Excel*
-- 📞 Analyzed **100,000+** call records to reduce abandon rate from **30% → 10%**
-- 🧠 Improved manpower planning for peak hours (10 AM–2 PM)
+- Analyzed **100,000+** call records to reduce abandon rate from **30% → 10%**
+- Improved manpower planning for peak hours (10 AM–2 PM)
 
 > 🔗 For more projects check my Repository.
 
@@ -56,9 +56,9 @@
 
 ### 🏆 Achievements
 
-- 🧾 Recognized by **Air India SATS** for fraud risk mitigation and compliance
-- 📜 **Google Data Analytics Professional Certificate** (Feb–May 2025)
-- 🧠 Reduced system workflow delays by **18%** in operations analysis
+- Recognized by **Air India SATS** for fraud risk mitigation and compliance
+- **Google Data Analytics Professional Certificate** (Feb–May 2025)
+- Reduced system workflow delays by **18%** in operations analysis
 
 ---
 
